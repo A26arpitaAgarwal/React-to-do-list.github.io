@@ -1,0 +1,2 @@
+body{align-items:center;background-color:#f4f4f4;display:flex;font-family:Arial,sans-serif;height:100vh;justify-content:center;margin:0}.container{background:#fff;border-radius:5px;box-shadow:0 0 10px #0000001a;padding:20px}h1{text-align:center}button,input{margin:5px;padding:10px}input{width:calc(100% - 24px)}ul{list-style:none;padding:0}li{align-items:center;border-bottom:1px solid #ddd;display:flex;justify-content:space-between;padding:10px}li.completed{color:gray;text-decoration:line-through}button{cursor:pointer}
+/*# sourceMappingURL=main.833f4034.css.map*/
